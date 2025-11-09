@@ -1,0 +1,8 @@
+
+{
+  "name": "CodeCourt: AI Code Review",
+  "description": "A real-time code review application that uses Gemini AI expert personas to analyze code and live screen captures, identifying issues related to security, scalability, and UI/UX.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
